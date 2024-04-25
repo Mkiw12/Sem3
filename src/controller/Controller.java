@@ -2,7 +2,7 @@ package src.controller;
 
 //
 
-public class Contoller 
+public class Controller 
 {
     
 }
