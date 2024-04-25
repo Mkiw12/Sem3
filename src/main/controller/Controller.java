@@ -1,4 +1,4 @@
-package src.main.controller;
+package main.controller;
 
 //
 

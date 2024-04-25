@@ -1,1 +1,1 @@
-package src.main.view;
+package main.view;
