@@ -1,4 +1,4 @@
-package src.startup;
+package src.main.startup;
 
 
 
