@@ -12,11 +12,10 @@ public class Main
 {
     public static void main(String[] args)
     {
-        Controller control = new Controller();
-        View view = new View(control);
-
         SalesLog SaleL = new SalesLog();
         Printer print = new Printer();
 
+        Controller control = new Controller(print, SaleL);
+        new View(control);
     }
 }
