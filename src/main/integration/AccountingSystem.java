@@ -1,5 +1,9 @@
 package main.integration;
 
-public class AccountingSystem {
-    
+public class AccountingSystem 
+{
+    public AccountingSystem()
+    {
+        
+    }
 }

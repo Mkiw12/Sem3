@@ -1,5 +1,6 @@
 package main.integration;
 
-public class SalesLog {
+public class SalesLog 
+{
     
 }
