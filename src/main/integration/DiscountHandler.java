@@ -1,5 +1,9 @@
 package main.integration;
 
-public class DiscountHandler {
-    
+public class DiscountHandler 
+{
+    public DiscountHandler()
+    {
+        
+    }
 }
